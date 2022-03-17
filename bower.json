@@ -1,21 +1,22 @@
 {
-  "name": "aula_05",
+  "name": "dswa5-05-ac-pt3009351",
   "description": "AngularJS",
   "main": "index.js",
   "authors": [
-    "Fabio Teixeira <fabio.teixeira@ifsp.edu.br>"
+    "Renan Lima <renanlimag10@gmail.com>"
   ],
   "license": "ISC",
   "keywords": [
     "DSWA5"
   ],
-  "homepage": "",
+  "homepage": "https://github.com/RenanLimaG/dswa5-05-ac-pt3009351",
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
     "test",
-    "tests"
+    "tests",
+    "public/vendor"
   ],
   "dependencies": {
     "angular": "1.7",
